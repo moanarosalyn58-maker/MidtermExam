@@ -1,4 +1,3 @@
 first_name='Juan'
-
-print(first_name)
-print("Member 2 feature implemented")
+last_name="Dela Cruz"
+print(first_name+" "+last_name)
